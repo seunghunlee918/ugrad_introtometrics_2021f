@@ -1,6 +1,9 @@
 # Introduction to Econometrics (Fall 2021)
 This repository contains the TA notes and recitation slides I have used for the 2021 Fall semester. It includes the TeX files for the lecture notes and recitation slides used in Fall 2021 semester. Please contact me (sl4436@columbia.edu) or send a pull request if you spot any errors.
 
+### Book (to be released soon)
+This folder contains one TeX file that compiles all topics covered in Introduction to Econometrics class in Columbia University. It combines the materials used in Fall 2019, Spring 2021, and Fall 2021 semesters. 
+
 ### Lecture Notes
 The following topics are covered at each recitation
 
